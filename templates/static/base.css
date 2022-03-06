@@ -1,0 +1,34 @@
+body {
+  background-color: rgb(187, 223, 235);
+  color: black;
+}
+h1,
+h2 {
+  background-color: black;
+  color: white;
+  margin-left: 30%;
+}
+
+ul,
+li,a,p {
+  max-height: 400px;
+  max-width: 800px;
+  list-style-type: square;
+  text-size-adjust: 30;
+  align-content: center;
+  margin-left: 30%;
+ 
+  
+}
+
+form {
+    background-color: blanchedalmond;
+    max-height: 400px;
+    max-width: 800px;
+    align-content: center;
+    margin-left: 30%;
+}
+input {
+  width: 100%;
+ 
+}
